@@ -15,8 +15,8 @@ dark-theme: auto
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
 url: https://aadraouimostafakamal.github.io/ripatsumu
@@ -38,7 +38,7 @@ disqus:
 #instagram: myinstagram
 linkedin: aadraouimostafakamal
 github: aadraouimostafakamal
-email: mostafakamalaadraoui@gmail.com
+#email: mostafakamalaadraoui@gmail.com
 
 authors:
   ripatsumu:
